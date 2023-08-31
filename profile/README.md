@@ -1,1 +1,1 @@
-![Telefonica Logo](./profile/Telefónica Blue Positive Horizontal Digital RGB.png)
+![Telefonica Logo](./profile/telefonica_logo_blue_rgb.png)
