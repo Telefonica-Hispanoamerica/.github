@@ -1,1 +1,1 @@
-![Telefonica Logo](./profile/telefonica_logo_blue_rgb.png)
+![Telefonica Logo](./telefonica_logo_blue_rgb.png)
